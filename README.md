@@ -22,13 +22,7 @@ The project also integrates **Gemini AI** for Kannada translation support.
 
 ---
 
-# 📱 App Preview
 
-| Home Screen | Features |
-|---|---|
-| ![Home](<img src="app/screenshots2/home page.PNG" width="250"/>) | ![Features](app/screenshots2/facilities.PNG) |
-
----
 
 # 🔥 Features
 
