@@ -1,6 +1,6 @@
 # 🏫 Shale-Namma Pride
 
-> 🚀 A smart government school transparency app built using Kotlin, Firebase, and Gemini AI.
+> 🚀 A smart government school transparency app built using Kotlin, Firebase, and Gen AI.
 
 <p align="center">
   <img src="app/screenshots2/home page.PNG" width="250"/>
