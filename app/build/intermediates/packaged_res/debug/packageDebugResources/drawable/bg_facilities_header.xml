@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Header for Facilities screen: green gradient -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#16A34A"
+        android:endColor="#059669"
+        android:angle="0"
+        android:type="linear" />
+</shape>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/activity_splash.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/activity_admin_add_student.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/activity_admin_add_student.xml"
+    },
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/item_student.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/item_student.xml"
+    },
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/activity_home.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/activity_facilities.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/activity_facilities.xml"
+    },
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/activity_login.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/activity_feedback.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/activity_student_stars.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/activity_student_stars.xml"
+    },
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/activity_meal.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/activity_meal.xml"
+    },
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/activity_admin_upload_meal.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/activity_admin_upload_meal.xml"
+    },
+    {
+        "merged": "com.shalenammapride.app-mergeDebugResources-45:/layout/item_facility.xml",
+        "source": "com.shalenammapride.app-main-48:/layout/item_facility.xml"
+    }
+]

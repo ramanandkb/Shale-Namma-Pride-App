@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ic_school_logo.xml - Vector drawable for the school logo on splash screen.
+  A simple school building icon in white, shown on the purple gradient.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="140dp"
+    android:height="140dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- White circle background -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M50,50 m-45,0 a45,45 0 1,0 90,0 a45,45 0 1,0 -90,0" />
+
+    <!-- School building body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,75 L20,45 L50,30 L80,45 L80,75 Z" />
+
+    <!-- Roof triangle (darker shade) -->
+    <path
+        android:fillColor="#E8EAFF"
+        android:pathData="M15,47 L50,28 L85,47 Z" />
+
+    <!-- Door -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M43,75 L43,60 Q43,57 46,57 L54,57 Q57,57 57,60 L57,75 Z" />
+
+    <!-- Windows -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M27,55 L37,55 L37,65 L27,65 Z" />
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M63,55 L73,55 L73,65 L63,65 Z" />
+
+    <!-- Flag pole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,28 L51,28 L51,18 L49,18 Z" />
+
+    <!-- Flag -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M51,18 L61,20 L51,22 Z" />
+
+</vector>

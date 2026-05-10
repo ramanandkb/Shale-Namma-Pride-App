@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525613060078",
+    "project_id": "shalenammapride-2f12a",
+    "storage_bucket": "shalenammapride-2f12a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525613060078:android:246da0609b56606fc388ff",
+        "android_client_info": {
+          "package_name": "com.shalenammapride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBCrIr87CqDECrcHgYgyg5VgmYJc58hI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

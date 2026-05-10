@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  item_student.xml - Single student achievement card in the RecyclerView list.
+  Shows: circular photo, star badge, student name, class, and achievement text.
+-->
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:gravity="center_vertical">
+
+        <!-- Student Photo (circular) -->
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imgStudentPhoto"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:src="@drawable/ic_student_placeholder"
+            android:layout_marginEnd="16dp"
+            app:civ_border_color="#FFA000"
+            app:civ_border_width="2dp" />
+
+        <!-- Student Info -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <!-- Name Row with Star Badge -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tvStudentName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Student Name"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:textColor="#333333"
+                    android:fontFamily="sans-serif-medium" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" ⭐"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <!-- Class Name -->
+            <TextView
+                android:id="@+id/tvStudentClass"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Grade 5"
+                android:textSize="12sp"
+                android:textColor="#888888"
+                android:layout_marginBottom="4dp" />
+
+            <!-- Achievement -->
+            <TextView
+                android:id="@+id/tvStudentAchievement"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Achievement text here"
+                android:textSize="13sp"
+                android:textColor="#555555"
+                android:lineSpacingExtra="2dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shale-Namma Pride</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Shale-Namma Pride</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">New user? Tap here to Register</string>
+
+    <!-- Home Screen -->
+    <string name="daily_meal">Daily Meal</string>
+    <string name="facilities">Facilities</string>
+    <string name="student_stars">Student Stars</string>
+    <string name="feedback">Feedback</string>
+    <string name="logout">Logout</string>
+
+    <!-- Module Headers -->
+    <string name="todays_meal">Today\'s Meal 🍽️</string>
+    <string name="our_facilities">Our Facilities 🏛️</string>
+    <string name="student_achievements">⭐ Student Stars</string>
+    <string name="share_feedback">💬 Share Feedback</string>
+
+    <!-- Feedback Screen -->
+    <string name="hint_feedback">Write your feedback here…</string>
+    <string name="hint_parent_name">Your Name (optional)</string>
+    <string name="submit_feedback">Submit Feedback 🙏</string>
+    <string name="translate_to_kannada">🌐 Translate to Kannada</string>
+
+    <!-- AI Translation -->
+    <string name="ai_translation">🤖 AI Translation</string>
+    <string name="translation_subtitle">Translate feedback to Kannada using Gemini AI</string>
+
+    <!-- Empty states -->
+    <string name="no_meal">No meal uploaded for today.\nAdmin will update soon!</string>
+    <string name="no_students">No student achievements yet.\nAdmin will add soon!</string>
+
+    <!-- Admin actions -->
+    <string name="upload_meal">+ Upload</string>
+    <string name="add_student">+ Add</string>
+</resources>

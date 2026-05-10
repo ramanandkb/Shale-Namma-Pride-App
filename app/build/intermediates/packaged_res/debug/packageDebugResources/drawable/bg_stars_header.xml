@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Header for Student Stars screen: amber gradient -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#D97706"
+        android:endColor="#B45309"
+        android:angle="0"
+        android:type="linear" />
+</shape>

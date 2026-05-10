@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen background: vibrant purple-to-indigo gradient -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#7C3AED"
+        android:centerColor="#4F46E5"
+        android:endColor="#2563EB"
+        android:angle="135"
+        android:type="linear" />
+</shape>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  item_facility.xml - Single facility card in the facilities grid.
+  Shows emoji icon, facility name, and description on a colored background.
+-->
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardFacility"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:layout_margin="6dp"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackground"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <!-- Emoji Icon -->
+        <TextView
+            android:id="@+id/tvFacilityEmoji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🏫"
+            android:textSize="40sp" />
+
+        <!-- Facility Name -->
+        <TextView
+            android:id="@+id/tvFacilityName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Classrooms"
+            android:textColor="@android:color/white"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_marginTop="6dp"
+            android:fontFamily="sans-serif-medium" />
+
+        <!-- Facility Description -->
+        <TextView
+            android:id="@+id/tvFacilityDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Short description"
+            android:textColor="#E0ffffff"
+            android:textSize="11sp"
+            android:gravity="center"
+            android:layout_marginTop="2dp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

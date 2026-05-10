@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#F59E0B</color>
+    <color name="colorPrimary">#0D9488</color>
+    <color name="colorPrimaryDark">#0F766E</color>
+    <color name="facilityBlue">#2563EB</color>
+    <color name="facilityGreen">#16A34A</color>
+    <color name="facilityOrange">#EA580C</color>
+    <color name="facilityPurple">#7C3AED</color>
+    <color name="facilityRed">#DC2626</color>
+    <color name="facilityYellow">#CA8A04</color>
+    <color name="textPrimary">#1F2937</color>
+    <color name="textSecondary">#6B7280</color>
+    <color name="windowBackground">#F5F5F5</color>
+    <string name="add_student">+ Add</string>
+    <string name="ai_translation">🤖 AI Translation</string>
+    <string name="app_name">Shale-Namma Pride</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">New user? Tap here to Register</string>
+    <string name="daily_meal">Daily Meal</string>
+    <string name="facilities">Facilities</string>
+    <string name="feedback">Feedback</string>
+    <string name="gcm_defaultSenderId" translatable="false">525613060078</string>
+    <string name="google_api_key" translatable="false">AIzaSyCBCrIr87CqDECrcHgYgyg5VgmYJc58hI8</string>
+    <string name="google_app_id" translatable="false">1:525613060078:android:246da0609b56606fc388ff</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCBCrIr87CqDECrcHgYgyg5VgmYJc58hI8</string>
+    <string name="google_storage_bucket" translatable="false">shalenammapride-2f12a.firebasestorage.app</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_feedback">Write your feedback here…</string>
+    <string name="hint_parent_name">Your Name (optional)</string>
+    <string name="hint_password">Password</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="login_title">Shale-Namma Pride</string>
+    <string name="logout">Logout</string>
+    <string name="no_meal">No meal uploaded for today.\nAdmin will update soon!</string>
+    <string name="no_students">No student achievements yet.\nAdmin will add soon!</string>
+    <string name="our_facilities">Our Facilities 🏛️</string>
+    <string name="project_id" translatable="false">shalenammapride-2f12a</string>
+    <string name="share_feedback">💬 Share Feedback</string>
+    <string name="student_achievements">⭐ Student Stars</string>
+    <string name="student_stars">Student Stars</string>
+    <string name="submit_feedback">Submit Feedback 🙏</string>
+    <string name="todays_meal">Today\'s Meal 🍽️</string>
+    <string name="translate_to_kannada">🌐 Translate to Kannada</string>
+    <string name="translation_subtitle">Translate feedback to Kannada using Gemini AI</string>
+    <string name="upload_meal">+ Upload</string>
+    <style name="Theme.ShalNammaPride" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        
+        <item name="android:windowBackground">@color/windowBackground</item>
+    </style>
+    <style name="Theme.ShalNammaPride.Splash" parent="Theme.ShalNammaPride">
+        <item name="android:windowBackground">@drawable/bg_splash_gradient</item>
+        <item name="android:statusBarColor">#7C3AED</item>
+    </style>
+</resources>

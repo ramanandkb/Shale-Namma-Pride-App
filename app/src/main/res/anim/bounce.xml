@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  bounce.xml - Animation for the splash screen logo.
+  The logo bounces in from below when the app launches.
+-->
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/bounce_interpolator">
+
+    <!-- Start from below screen, move to center -->
+    <translate
+        android:fromYDelta="100%"
+        android:toYDelta="0%"
+        android:duration="800" />
+
+    <!-- Grow from nothing to full size -->
+    <scale
+        android:fromXScale="0.5"
+        android:toXScale="1.0"
+        android:fromYScale="0.5"
+        android:toYScale="1.0"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:duration="800" />
+
+</set>

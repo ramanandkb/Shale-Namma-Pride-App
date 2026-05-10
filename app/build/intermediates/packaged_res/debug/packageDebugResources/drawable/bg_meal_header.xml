@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Header for Meal screens: orange gradient -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#F97316"
+        android:endColor="#EA580C"
+        android:angle="0"
+        android:type="linear" />
+</shape>

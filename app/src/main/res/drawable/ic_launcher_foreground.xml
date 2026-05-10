@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Adaptive launcher icon foreground: school building on transparent bg -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Purple circle background -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M54,54 m-50,0 a50,50 0 1,0 100,0 a50,50 0 1,0 -100,0" />
+
+    <!-- White school building -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,82 L22,50 L54,33 L86,50 L86,82 Z" />
+
+    <!-- Roof highlight -->
+    <path
+        android:fillColor="#EDE9FE"
+        android:pathData="M16,52 L54,30 L92,52 Z" />
+
+    <!-- Door (purple) -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M47,82 L47,65 Q47,62 50,62 L58,62 Q61,62 61,65 L61,82 Z" />
+
+    <!-- Left window -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M29,59 L41,59 L41,71 L29,71 Z" />
+
+    <!-- Right window -->
+    <path
+        android:fillColor="#7C3AED"
+        android:pathData="M67,59 L79,59 L79,71 L67,71 Z" />
+
+    <!-- Flag pole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,30 L55,30 L55,18 L53,18 Z" />
+
+    <!-- Flag (amber) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M55,18 L67,21 L55,24 Z" />
+
+</vector>

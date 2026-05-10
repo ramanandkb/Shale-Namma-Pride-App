@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Login screen background: warm pink-to-purple gradient -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#EC4899"
+        android:centerColor="#8B5CF6"
+        android:endColor="#6366F1"
+        android:angle="135"
+        android:type="linear" />
+</shape>
