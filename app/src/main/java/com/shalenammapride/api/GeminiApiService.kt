@@ -23,7 +23,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 object GeminiApiService {
 
     // ⚠️ REPLACE THIS WITH YOUR ACTUAL GEMINI API KEY
-    private const val API_KEY = "AIzaSyDngRJMFePz62kame6C-adxJzFboI9NDRU"
+    private const val API_KEY = ""
 
     // Base URL for Gemini API
     private const val BASE_URL = "https://generativelanguage.googleapis.com/"
