@@ -26,7 +26,7 @@ The project also integrates **Gemini AI** for Kannada translation support.
 
 | Home Screen | Features |
 |---|---|
-| ![Home](app/screenshots2/homepage.PNG) | ![Features](app/screenshots2/facilities.PNG) |
+| ![Home](<img src="app/screenshots2/home page.PNG" width="250"/>) | ![Features](app/screenshots2/facilities.PNG) |
 
 ---
 
@@ -56,8 +56,8 @@ This project uses **Google Gemini API** to translate school updates from English
 
   <img src="app/screenshots2/login page.PNG" width="250"/>
   <img src="app/screenshots2/home page.PNG" width="250"/>
-  <img src="app/screenshots2/facilities page.PNG" width="250"/>
-  <img src="app/screenshots2/feedback page.PNG" width="250"/>
+  <img src="app/screenshots2/facilities.PNG" width="250"/>
+  <img src="app/screenshots2/feedback.PNG" width="250"/>
 
 
 ---
