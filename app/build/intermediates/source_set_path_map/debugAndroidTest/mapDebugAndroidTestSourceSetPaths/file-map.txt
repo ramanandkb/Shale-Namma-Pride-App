@@ -1,0 +1,7 @@
+com.shalenammapride.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\User\.gradle\caches\8.13\transforms\195b4ef83b88bf4233598dbe714d9ddb\transformed\jetified-annotation-experimental-1.3.0\res
+com.shalenammapride.test.app-jetified-core-1.5.0-1 C:\Users\User\.gradle\caches\8.13\transforms\84865a01239b92b9bd76943ac60179bd\transformed\jetified-core-1.5.0\res
+com.shalenammapride.test.app-androidTest-2 C:\Users\User\Desktop\shale\app\build\generated\res\resValues\androidTest\debug
+com.shalenammapride.test.app-updated_navigation_xml-3 C:\Users\User\Desktop\shale\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.shalenammapride.test.app-mergeDebugAndroidTestResources-4 C:\Users\User\Desktop\shale\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.shalenammapride.test.app-mergeDebugAndroidTestResources-5 C:\Users\User\Desktop\shale\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.shalenammapride.test.app-debugAndroidTest-6 C:\Users\User\Desktop\shale\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
