@@ -26,7 +26,7 @@ The project also integrates **Gemini AI** for Kannada translation support.
 
 | Home Screen | Features |
 |---|---|
-| ![Home](screenshots/home.png) | ![Features](screenshots/features.png) |
+| ![Home](app/screenshots2/home page.PNG) | ![Features](app/screenshots2/facilities.PNG) |
 
 ---
 
@@ -52,6 +52,13 @@ This project uses **Google Gemini API** to translate school updates from English
 | English | Kannada |
 |---|---|
 | Today's meal is rice and sambar | ಇಂದಿನ ಊಟ ಅನ್ನ ಮತ್ತು ಸಾಂಬಾರ್ |
+
+<p align="center">
+  <img src="app/screenshots2/login page.PNG" width="250"/>
+  <img src="app/screenshots2/home page.PNG" width="250"/>
+  <img src="app/screenshots2/facilities page.PNG" width="250"/>
+  <img src="app/screenshots2/feedback page.PNG" width="250"/>
+</p>
 
 ---
 
